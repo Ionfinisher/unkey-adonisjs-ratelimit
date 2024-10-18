@@ -8,7 +8,7 @@ This a starter AdonisJS application which implements rate limiting with Unkey Ra
 
 ## Features
 
-- Public endpoint accessible without authenticationn
+- Public endpoint accessible without limitation
 - Protected endpoint ratelimited to two requests per 30 seconds
 
 ## Quickstart
