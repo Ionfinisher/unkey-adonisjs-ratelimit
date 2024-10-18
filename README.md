@@ -21,7 +21,7 @@ This a starter AdonisJS application which implements rate limiting with Unkey Ra
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ionfinisher/unkey-adonisjs-template.git
+   git clone https://github.com/Ionfinisher/unkey-adonisjs-ratelimit.git
    ```
 
 2. Navigate to the project directory:
